@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html>
+
+
+
 <head>
-       <title>
 
+       <title>      *****  RASCUNHO HTML  ******       </title>
 
-      *****  RASCUNHO HTML  ******
-
-
-
-       </title>
 </head>
 
 
